@@ -3,6 +3,9 @@
 
 #for some reason i3wm doesnt wanna work with this so aliasing it is needed for manual launching via "i3lock", waiting automatically runs it after some time though
 
+
+#------------------------------
+
 BLANK='#00000000'
 CLEAR='#ffffff22'
 DEFAULT='#00897bE6'
