@@ -1,5 +1,6 @@
 These are my main config files for i3wm
 
+
 Dependancies:
 
 i3lock-color
