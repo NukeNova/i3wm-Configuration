@@ -1,7 +1,7 @@
 #!/bin/funky
 
 
-These are my funky dotfiles
+These are my funky configuration files
 
 
 
